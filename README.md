@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=xmonpl)
+
+<details> <summary> <b> GitHub Stats </b> </summary>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xmonpl&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmonpl&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+
+</details>
