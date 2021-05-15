@@ -1,27 +1,14 @@
-### Hi there 👋
+<h3 align="center"> <code>System.out.println("Hi, I'm Xmon 👋🏻");</code></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img> <a href="https://github.com/xmonpl"> <img src="https://img.shields.io/github/followers/xmonpl?label=follow&style=social"> </a></p>
 
-Here are some ideas to get you started:
+**Something about me**
 
-- 🔭 I’m currently working on Kwadratowa.tk
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: https://Xmon.cf
-- ⚡ Fun fact: I don't know.
-<!--
-**Xmonpl/Xmonpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=xmonpl)
+<ul>
+  <li> 🔭 I’m currently working on my minecraft server <a href="https://AxoNet.eu">AxoNet.eu</a> 
+<li> 🌱 I’m writing code in Java, PHP, Kotlin
+<li> 📫 How to reach me: By Discord: <a href="https://discord.com/users/255702836367589378"> .Xmon ♔#1912</a>, By e-mail: <a href="mailto:xmon@t.pl"> xmon@t.pl </a>
+  <li> 👭 I like collaborating with <a href="https://github.com/MatisOne"> <b> @MatisOne </b> </a>
+</ul>
 
 <details> <summary> <b> GitHub Stats </b> </summary>
 
