@@ -17,7 +17,7 @@
         <li><strong>Contact form: </strong> <code>https://xmon.eu.org/kontakt</code></li>
         <li><strong>E-mail: </strong> <code>xmon@t.pl</code></li>
     </ul>
-
+</details>
 <details> <summary> <b> GitHub Stats </b> </summary>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=xmonpl&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
