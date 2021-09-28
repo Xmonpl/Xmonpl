@@ -10,10 +10,24 @@
   <li> 👭 I like collaborating with <a href="https://github.com/MatisOne"> <b> @MatisOne </b> </a>
 </ul>
 
+<details><summary><b>Contact me</b></summary>
+    <ul>
+        <li><strong>Discord: </strong> <code>.Xmon ♔#1912</code></li>
+        <li><strong>Contact form: </strong> <code>https://xmon.eu.org/kontakt</code></li>
+        <li><strong>E-mail: </strong> <code>xmon@t.pl</code></li>
+    </ul>
+    
+**Xmon Community Discord Server**
+
+[![](https://i.imgur.com/dcrij67.png)](https://discord.gg/qyeDzjrfkv)
+</details>
+
+
 <details> <summary> <b> GitHub Stats </b> </summary>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=xmonpl&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmonpl&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xmon)
 </details>
