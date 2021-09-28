@@ -13,15 +13,10 @@
 <details><summary><b>Contact me</b></summary>
     <ul>
         <li><strong>Discord: </strong> <code>.Xmon ♔#1912</code></li>
+        <li><strong>Discord server: </strong> <code>https://discord.gg/qyeDzjrfkv</code></li>
         <li><strong>Contact form: </strong> <code>https://xmon.eu.org/kontakt</code></li>
         <li><strong>E-mail: </strong> <code>xmon@t.pl</code></li>
     </ul>
-    
-**Xmon Community Discord Server**
-
-[![](https://i.imgur.com/dcrij67.png)](https://discord.gg/qyeDzjrfkv)
-</details>
-
 
 <details> <summary> <b> GitHub Stats </b> </summary>
 
