@@ -1,5 +1,5 @@
 <h3 align="center"> <code>System.out.println("Hi, I'm Xmon 👋🏻");</code></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img> <a href="https://github.com/xmonpl"> <img src="https://img.shields.io/github/followers/xmonpl?label=follow&style=social"> </a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img></p>
 
 **Something about me**
 
