@@ -26,3 +26,8 @@
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xmon)
 </details>
+<details> <summary><b>Spotify</b></summary>
+
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/312l7gcilpv7ghp3l5336hnhh6ye)
+  
+</details>
