@@ -15,7 +15,7 @@
         <li><strong>Discord: </strong> <code>.Xmon ♔#1912</code></li>
         <li><strong>Discord server: </strong> <code>https://discord.gg/qyeDzjrfkv</code></li>
         <li><strong>Contact form: </strong> <code>https://xmon.eu.org/kontakt</code></li>
-        <li><strong>E-mail: </strong> <code>xmon@t.pl</code></li>
+        <li><strong>E-mail: </strong> <code>root@xmon.eu.org</code></li>
     </ul>
 </details>
 <details> <summary> <b> GitHub Stats </b> </summary>
