@@ -6,9 +6,10 @@
 <ul>
   <li> 🔭 I’m currently working on my minecraft server <a href="https://AxoNet.eu">AxoNet.eu</a> 
 <li> 🌱 I’m writing code in Java, PHP, Kotlin
-<li> 📫 How to reach me: By Discord: <a href="https://discord.com/users/255702836367589378"> .Xmon ♔#1912</a>, By e-mail: <a href="mailto:xmon@t.pl"> xmon@t.pl </a>
   <li> 👭 I like collaborating with <a href="https://github.com/MatisOne"> <b> @MatisOne </b> </a>
 </ul>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/255702836367589378)](https://discord.com/users/255702836367589378)
 
 <details><summary><b>Contact me</b></summary>
     <ul>
