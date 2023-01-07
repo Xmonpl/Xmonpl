@@ -4,8 +4,8 @@
 **Something about me**
 
 <ul>
-  <li> 🔭 I’m currently working on my minecraft server <a href="https://AxoNet.eu">AxoNet.eu</a> 
-<li> 🌱 I’m writing code in Java, PHP, Kotlin
+  <li> 🔭 I’m currently working on my minecraft server <a href="https://AxoNet.eu.org">AxoNet.eu.org</a> 
+<li> 🌱 I’m writing code in Java, Dart, JS.
   <li> 👭 I like collaborating with <a href="https://github.com/MatisOne"> <b> @MatisOne </b> </a>
 </ul>
 
@@ -25,10 +25,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmonpl&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xmon)
-</details>
-<details> <summary><b>Spotify</b></summary>
 
-[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/312l7gcilpv7ghp3l5336hnhh6ye)
+</details>
+<details> <summary><b>WakaTime</b></summary>
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xmon)
   
 </details>
