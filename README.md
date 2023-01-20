@@ -1,11 +1,11 @@
 <h3> <code>System.out.println("Hi, I'm Xmon 👋🏻");</code></h3>
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
 > 📦 105.6 kB Used in GitHub's Storage 
  > 
@@ -15,13 +15,13 @@
  > 
 > 🔑 37 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    40 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.27% 
-🌆 Daytime    91 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.73% 
-🌃 Evening    122 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.56% 
-🌙 Night      9 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.44%
+🌞 Morning    40 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.21% 
+🌆 Daytime    91 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.6% 
+🌃 Evening    123 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.77% 
+🌙 Night      9 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.42%
 
 ```
 
@@ -41,5 +41,5 @@ XML                      18 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 20/01/2023 20:23:40 UTC
+ Last Updated on 20/01/2023 20:25:48 UTC
 <!--END_SECTION:waka-->
