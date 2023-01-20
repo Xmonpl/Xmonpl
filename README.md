@@ -1,6 +1,8 @@
 <h3> <code>System.out.println("Hi, I'm Xmon 👋🏻");</code></h3>
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2012%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 48 Contributions in the Year 2023
@@ -39,5 +41,5 @@ XML                      18 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 20/01/2023 20:28:23 UTC
+ Last Updated on 20/01/2023 20:30:56 UTC
 <!--END_SECTION:waka-->
