@@ -2,13 +2,13 @@
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 78 Contributions in the Year 2023
+> 🏆 88 Contributions in the Year 2023
  > 
-> 📦 106.0 kB Used in GitHub's Storage 
+> 📦 106.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -19,10 +19,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    42 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58% 
-🌆 Daytime    95 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.99% 
-🌃 Evening    140 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.61% 
-🌙 Night      11 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.82%
+🌞 Morning    42 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.09% 
+🌆 Daytime    95 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.88% 
+🌃 Evening    150 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.34% 
+🌙 Night      11 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.69%
 
 ```
 
@@ -42,5 +42,5 @@ PHP                      47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 29/01/2023 18:03:04 UTC
+ Last Updated on 30/01/2023 00:04:23 UTC
 <!--END_SECTION:waka-->
