@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,9 +32,10 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.55 % 
+XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.45 % 
 ```
 
 
- Last Updated on 20/01/2024 00:06:26 UTC
+ Last Updated on 20/01/2024 06:03:55 UTC
 <!--END_SECTION:waka-->
