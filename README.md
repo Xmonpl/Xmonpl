@@ -8,8 +8,6 @@
 
 > 📦 128.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -37,5 +35,5 @@ XML                      20 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 28/03/2024 12:03:59 UTC
+ Last Updated on 28/03/2024 18:03:56 UTC
 <!--END_SECTION:waka-->
