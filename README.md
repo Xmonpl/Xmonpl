@@ -30,10 +30,9 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.82 % 
-XML                      9 mins              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.18 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/04/2024 00:05:53 UTC
+ Last Updated on 01/04/2024 06:03:38 UTC
 <!--END_SECTION:waka-->
