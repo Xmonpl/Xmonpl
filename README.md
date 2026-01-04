@@ -16,6 +16,25 @@
  > 
 > 🔑 59 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/01/2026 18:04:41 UTC
+```text
+🌞 Morning                229 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.18 % 
+🌆 Daytime                506 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.11 % 
+🌃 Evening                808 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.49 % 
+🌙 Night                  195 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 00:08:05 UTC
 <!--END_SECTION:waka-->
