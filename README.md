@@ -2,6 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2038%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 325.8 kB Used in GitHub's Storage 
@@ -14,6 +16,25 @@
  > 
 > 🔑 69 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 22/05/2026 00:28:02 UTC
+```text
+🌞 Morning                402 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.15 % 
+🌆 Daytime                662 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.30 % 
+🌃 Evening                1559 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.88 % 
+🌙 Night                  218 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 22/05/2026 07:09:28 UTC
 <!--END_SECTION:waka-->
