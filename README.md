@@ -2,6 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2038%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 391.4 kB Used in GitHub's Storage 
@@ -34,5 +36,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/07/2026 01:33:30 UTC
+ Last Updated on 24/07/2026 08:08:38 UTC
 <!--END_SECTION:waka-->
